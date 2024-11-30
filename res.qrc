@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>logo.png</file>
+        <file>background.jpg</file>
+        <file>logo-modified.png</file>
+         <file>PersonLogo.png</file>
+        <file>Loginimage-removebg-preview.png</file>
+        <file>leftarrow.png</file>
+        
+    </qresource>
+</RCC>
